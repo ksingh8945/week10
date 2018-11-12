@@ -1,0 +1,34 @@
+
+div{
+    width: 100%;
+    height: 300px;
+}
+div.green{
+
+    background-color: grey;
+   
+}
+div.black{
+
+    background-image: url("images/frog.jpg");
+    color: white;
+    
+}
+
+div.main, div.second{
+    
+    position:absolute;
+    left: 0px;
+    top:600px;
+}
+div.main{
+    background-image: url("images/flowers.jpg");
+}
+div.second{
+    background-color: red;
+    opacity:0.3;
+    text-align: right;
+}
+
+    
+    
